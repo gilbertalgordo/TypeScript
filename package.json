@@ -60,7 +60,7 @@
         "chokidar": "^3.5.3",
         "diff": "^5.1.0",
         "dprint": "^0.41.0",
-        "esbuild": "^0.19.0",
+        "esbuild": "^0.25.0",
         "eslint": "^8.22.0",
         "eslint-formatter-autolinkable-stylish": "^1.2.0",
         "eslint-plugin-local": "^1.0.0",
